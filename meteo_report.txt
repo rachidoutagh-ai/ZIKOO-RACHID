@@ -1,0 +1,4 @@
+La ville Paris a une température de 12°C et une humidité de 88%.
+La ville Tokyo a une température de 12°C et une humidité de 51%.
+La ville New York a une température de 2°C et une humidité de 96%.
+La ville Dakar a une température de 18°C et une humidité de 88%.
